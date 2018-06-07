@@ -1,0 +1,50 @@
+WINDOWS
+
+1. Como acessar as últimas atualizações do professor
+
+Passo 1.1
+Acesse o shell Git-Bash 
+
+Passo 1.2 
+cd Desktop/jupyter/puc-students
+
+Passo 1.3 pull -> download
+git pull origin master
+
+
+2. Como fazer o upload (commit) das traduções?
+
+Passo 2.1
+Acesse o shell Git-Bash 
+
+Passo 2.2 
+cd Desktop/jupyter/puc-students
+
+Passo 2.3
+<<Faça as traduções>>
+
+Passo 2.4 push --> upload
+git add .
+git commit -m "<<descrição da tradução>>"
+git push origin master
+
+Observação: Assim que terminar uma tradução, faça o push. Não espere até ter tudo completo para fazer o push
+
+3. Como iniciar o jupyter
+
+Passo 3.1
+Acesse o shell Anaconda
+
+Passo 3.2
+cd Desktop\jupyter\puc-students\engbio\2oano\2018
+
+Passo 3.3*
+jupyter notebook
+
+*Obs: A Anaconda irá iniciar o diretório (pasta) no Google Chrome. Acesse o Chrome para traduzir as aulas
+
+
+
+
+
+
