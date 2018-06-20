@@ -1,4 +1,4 @@
-WINDOWS
+﻿WINDOWS
 
 1. Como acessar as últimas atualizações do professor
 
@@ -6,7 +6,7 @@ Passo 1.1
 Acesse o shell Git-Bash 
 
 Passo 1.2 
-cd Desktop/jupyter/puc-students
+cd Desktop/jupyter/pucsp-students
 
 Passo 1.3 pull -> download
 git pull origin master
@@ -18,7 +18,7 @@ Passo 2.1
 Acesse o shell Git-Bash 
 
 Passo 2.2 
-cd Desktop/jupyter/puc-students
+cd Desktop/jupyter/pucsp-students
 
 Passo 2.3
 <<Faça as traduções>>
@@ -36,7 +36,7 @@ Passo 3.1
 Acesse o shell Anaconda
 
 Passo 3.2
-cd Desktop\jupyter\puc-students\engbio\2oano\2018
+cd Desktop\jupyter\pucsp-students\engbio\2oano\2018
 
 Passo 3.3*
 jupyter notebook
